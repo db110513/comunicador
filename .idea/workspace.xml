@@ -9,7 +9,117 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="493761ca-1f69-4481-bcec-b78e0b27d514" name="Changes" comment="" />
+    <list default="true" id="493761ca-1f69-4481-bcec-b78e0b27d514" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/agafar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/anar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/ara.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/avi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/avia.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/bin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/bossaPa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/botiga.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/burlete.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/cacaolat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/carles.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/carnPeix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/casa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/centreComercial.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/classe.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/click.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/coc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/colorFormaMida.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/comEstas.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/compota.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/contxi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/copy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/correfoc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/cosSalut.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/del.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/dijous.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/dilluns.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/dimarts.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/dimecres.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/dinar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/dissabte.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/diumuenge.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/divendres.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/dolc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/dreta.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/emFaMal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/enganxar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/engranatge.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/esclairs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/escollir.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/esperar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/esquerra.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/esther.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/fanta.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/fer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/fred.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/funciona.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/garatge.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/gracies.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/guarnirArbre.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/horaDe.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/iogurt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/joan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/judit.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/lilEinstein.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/mac.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/malDit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/malFerPipi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/malOrella.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/malPanxa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/marcos.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/mato.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/metge.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/natalia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/no.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/noEntenem.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/noFunciona.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/nocilla.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/ouBalla.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/paRatllat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/paola.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/parcSama.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/parking.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/pastForm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/persCol.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/pilar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/pintar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/pluja.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/pop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/por.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/portAventura.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/postre.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/puzzle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/recte.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/restaurant.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/retama.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/rollito.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/rosa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/salou.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/santi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/santiago.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/si.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/siUsPlau.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/stjordi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/tabule.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/temps.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/thomas.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/toni.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/tortosa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/trineo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/undo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/ventosa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/viena.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/meusPictogrames/voler.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/assets/assets/meusPictogrames/botiga.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/assets/assets/meusPictogrames/botiga.png" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,21 +149,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "main",
-    "io.flutter.reload.alreadyRun": "true",
-    "last_opened_file_path": "C:/Desktop/comunicador/lib/screens",
-    "settings.editor.selected.configurable": "configurable.group.editor",
-    "show.migrate.to.gradle.popup": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;io.flutter.reload.alreadyRun&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Desktop/comunicador-ca&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.editor&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Desktop\comunicador\lib\screens" />
